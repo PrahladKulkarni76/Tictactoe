@@ -57,7 +57,7 @@
 </head>
 <body>
 
-<h1>Tic Tac Toe - AI Difficulty</h1>
+<h1>Tic Tac Toe</h1>
 
 <select id="difficulty" class="difficulty-select">
     <option value="easy">Easy</option>
